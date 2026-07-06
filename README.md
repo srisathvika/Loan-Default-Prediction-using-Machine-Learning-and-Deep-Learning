@@ -121,6 +121,13 @@ Models were evaluated using:
 
 ---
 
+## Output
+<img width="631" height="547" alt="image" src="https://github.com/user-attachments/assets/6f84e5fa-c00c-4f8e-a496-4a2aea41b467" />
+<img width="567" height="455" alt="image" src="https://github.com/user-attachments/assets/87579a14-dd4a-431d-a391-09dc99634e0a" />
+<img width="938" height="701" alt="image" src="https://github.com/user-attachments/assets/3d5538c5-0ad5-4461-a793-445678759b3d" />
+
+
+
 ## Technologies Used
 
 ### Programming Language
@@ -139,22 +146,6 @@ Models were evaluated using:
 ### Development Environment
 
 - Jupyter Notebook
-
----
-
-## Project Structure
-
-```
-Loan-Default-Prediction/
-│
-├── Loan Prediction.ipynb
-├── README.md
-├── dataset.csv
-├── logistic.pkl
-├── random_forest.pkl
-├── loan_prediction_nn.keras
-└── requirements.txt
-```
 
 ---
 
