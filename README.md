@@ -10,7 +10,8 @@ The primary objective is to build predictive models that assist in credit risk a
 
 ## Dataset
 
-**Source:** Lending Club Loan Dataset
+**Source:** Lending Club Loan Dataset 
+https://www.kaggle.com/datasets/wordsforthewise/lending-club/data
 
 The dataset contains historical loan information with borrower financial details and loan characteristics.
 
