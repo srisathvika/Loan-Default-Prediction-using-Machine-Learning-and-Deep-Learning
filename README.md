@@ -154,7 +154,7 @@ Models were evaluated using:
 1. Clone the repository
 
 ```
-git clone https://github.com/yourusername/Loan-Default-Prediction.git
+git clone https://github.com/srisathvika/Loan-Default-Prediction-using-Machine-Learning-and-Deep-Learning.git
 ```
 
 
